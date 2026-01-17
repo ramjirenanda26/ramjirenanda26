@@ -4,10 +4,10 @@ An independent Web Developer and GIS Enthusiast who loves to create and share pr
 
 I'm currently Final-year GIS Applied Student at <a href="https://ugm.ac.id/id/"> Universitas Gadjah Mada</a>.
 
-- 🔭 I’m currently Intern on <a href="nusantarainfrastructure.com">Nusantara Infrastructure</a> as GIS Intern
+- 🔭 I’m currently Work on <a href="[sctk.co.id]">Sarana Catur Tirtakelola</a> as Maintenance Spv.
 - 🌱 I’m currently learning about GIS Technology and Full-stack Development
 - 💬 Feel free to ask me about web development or JavaScript and GIS things
-- 📫 How to reach me: ramji.renanda@mail.ugm.ac.id
+- 📫 How to reach me: ramji.renanda@mail.ugm.ac.id or ramji.renanda@sctk.co.id
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
