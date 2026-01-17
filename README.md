@@ -4,7 +4,7 @@ An independent Web Developer and GIS Enthusiast who loves to create and share pr
 
 I'm currently Final-year GIS Applied Student at <a href="https://ugm.ac.id/id/"> Universitas Gadjah Mada</a>.
 
-- 🔭 I’m currently Work on <a href="[sctk.co.id]">Sarana Catur Tirtakelola</a> as Maintenance Spv.
+- 🔭 I’m currently Work on <a href="sctk.co.id">Sarana Catur Tirtakelola</a> as Maintenance Spv.
 - 🌱 I’m currently learning about GIS Technology and Full-stack Development
 - 💬 Feel free to ask me about web development or JavaScript and GIS things
 - 📫 How to reach me: ramji.renanda@mail.ugm.ac.id or ramji.renanda@sctk.co.id
